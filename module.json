@@ -1,0 +1,30 @@
+{
+  "name": "Fairwinter Dice",
+  "title": "FairwinterDice",
+  "description": "FairwinterDice",
+  "version": "1",
+  "authors": [
+    {
+      "name": "SDoehren"
+    }
+  ],
+  "scripts": [
+    "scripts/main.js"
+  ],
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12",
+    "maximum": "12"
+  },
+  "minimumCoreVersion": "12",
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "license": "",
+  "readme": "",
+  "socket": false,
+  "bugs": "",
+  "flags": {},
+  "relationships": {},
+  "packs": []
+}
