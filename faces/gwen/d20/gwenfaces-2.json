@@ -1,0 +1,32 @@
+{
+  "frames": {
+    "d20-20-bump.webp":{"frame": {"x": 1, "y":1, "w": 256, "h": 256}, "rotated": false, "trimmed": false, "spriteSourceSize": {"x": 0, "y": 0,"w": 256, "h": 256}, "sourceSize": {"w": 256, "h": 256}},
+"d20-19-bump.webp":{"frame": {"x": 257, "y":1, "w": 256, "h": 256}, "rotated": false, "trimmed": false, "spriteSourceSize": {"x": 0, "y": 0,"w": 256, "h": 256}, "sourceSize": {"w": 256, "h": 256}},
+"d20-18-bump.webp":{"frame": {"x": 513, "y":1, "w": 256, "h": 256}, "rotated": false, "trimmed": false, "spriteSourceSize": {"x": 0, "y": 0,"w": 256, "h": 256}, "sourceSize": {"w": 256, "h": 256}},
+"d20-17-bump.webp":{"frame": {"x": 769, "y":1, "w": 256, "h": 256}, "rotated": false, "trimmed": false, "spriteSourceSize": {"x": 0, "y": 0,"w": 256, "h": 256}, "sourceSize": {"w": 256, "h": 256}},
+"d20-16-bump.webp":{"frame": {"x": 1, "y":257, "w": 256, "h": 256}, "rotated": false, "trimmed": false, "spriteSourceSize": {"x": 0, "y": 0,"w": 256, "h": 256}, "sourceSize": {"w": 256, "h": 256}},
+"d20-15-bump.webp":{"frame": {"x": 257, "y":257, "w": 256, "h": 256}, "rotated": false, "trimmed": false, "spriteSourceSize": {"x": 0, "y": 0,"w": 256, "h": 256}, "sourceSize": {"w": 256, "h": 256}},
+"d20-14-bump.webp":{"frame": {"x": 513, "y":257, "w": 256, "h": 256}, "rotated": false, "trimmed": false, "spriteSourceSize": {"x": 0, "y": 0,"w": 256, "h": 256}, "sourceSize": {"w": 256, "h": 256}},
+"d20-13-bump.webp":{"frame": {"x": 769, "y":257, "w": 256, "h": 256}, "rotated": false, "trimmed": false, "spriteSourceSize": {"x": 0, "y": 0,"w": 256, "h": 256}, "sourceSize": {"w": 256, "h": 256}},
+"d20-12-bump.webp":{"frame": {"x": 1, "y":513, "w": 256, "h": 256}, "rotated": false, "trimmed": false, "spriteSourceSize": {"x": 0, "y": 0,"w": 256, "h": 256}, "sourceSize": {"w": 256, "h": 256}},
+"d20-11-bump.webp":{"frame": {"x": 257, "y":513, "w": 256, "h": 256}, "rotated": false, "trimmed": false, "spriteSourceSize": {"x": 0, "y": 0,"w": 256, "h": 256}, "sourceSize": {"w": 256, "h": 256}},
+"d20-10-bump.webp":{"frame": {"x": 513, "y":513, "w": 256, "h": 256}, "rotated": false, "trimmed": false, "spriteSourceSize": {"x": 0, "y": 0,"w": 256, "h": 256}, "sourceSize": {"w": 256, "h": 256}},
+"d20-9-bump.webp":{"frame": {"x": 769, "y":513, "w": 256, "h": 256}, "rotated": false, "trimmed": false, "spriteSourceSize": {"x": 0, "y": 0,"w": 256, "h": 256}, "sourceSize": {"w": 256, "h": 256}},
+"d20-8-bump.webp":{"frame": {"x": 1, "y":769, "w": 256, "h": 256}, "rotated": false, "trimmed": false, "spriteSourceSize": {"x": 0, "y": 0,"w": 256, "h": 256}, "sourceSize": {"w": 256, "h": 256}},
+"d20-7-bump.webp":{"frame": {"x": 257, "y":769, "w": 256, "h": 256}, "rotated": false, "trimmed": false, "spriteSourceSize": {"x": 0, "y": 0,"w": 256, "h": 256}, "sourceSize": {"w": 256, "h": 256}},
+"d20-6-bump.webp":{"frame": {"x": 513, "y":769, "w": 256, "h": 256}, "rotated": false, "trimmed": false, "spriteSourceSize": {"x": 0, "y": 0,"w": 256, "h": 256}, "sourceSize": {"w": 256, "h": 256}},
+"d20-5-bump.webp":{"frame": {"x": 769, "y":769, "w": 256, "h": 256}, "rotated": false, "trimmed": false, "spriteSourceSize": {"x": 0, "y": 0,"w": 256, "h": 256}, "sourceSize": {"w": 256, "h": 256}},
+"d20-4-bump.webp":{"frame": {"x": 1, "y":1025, "w": 256, "h": 256}, "rotated": false, "trimmed": false, "spriteSourceSize": {"x": 0, "y": 0,"w": 256, "h": 256}, "sourceSize": {"w": 256, "h": 256}},
+"d20-3-bump.webp":{"frame": {"x": 257, "y":1025, "w": 256, "h": 256}, "rotated": false, "trimmed": false, "spriteSourceSize": {"x": 0, "y": 0,"w": 256, "h": 256}, "sourceSize": {"w": 256, "h": 256}},
+"d20-2-bump.webp":{"frame": {"x": 513, "y":1025, "w": 256, "h": 256}, "rotated": false, "trimmed": false, "spriteSourceSize": {"x": 0, "y": 0,"w": 256, "h": 256}, "sourceSize": {"w": 256, "h": 256}},
+"d20-1-bump.webp":{"frame": {"x": 769, "y":1025, "w": 256, "h": 256}, "rotated": false, "trimmed": false, "spriteSourceSize": {"x": 0, "y": 0,"w": 256, "h": 256}, "sourceSize": {"w": 256, "h": 256}}
+  },
+"meta": {
+	"image": "gwen-em.webp",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1280},
+	"scale": "1",
+	"related_multi_packs": [ "gwenfaces-0.json","gwenfaces-1.json" ]
+}
+
+}
