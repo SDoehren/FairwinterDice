@@ -33,3 +33,17 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
         system: "Gwen"
     });
 })
+
+Hooks.on('deleteActiveEffect', async (a, b, c) => {
+    if (b["expiry-reason"] === 'times-up:expired') {
+        txt = "<strong>" + a.name + "</strong><br>" + a.description
+        ChatMessage.create({
+            type: 3,
+            user: b.parent._id,
+            content: txt,
+            speaker: ChatMessage.getSpeaker({actor: b.parent._id}),
+            flavor: "Effect Ended",
+            emote: true
+        })
+    }
+});
