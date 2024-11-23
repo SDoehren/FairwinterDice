@@ -32,6 +32,17 @@ Hooks.on('diceSoNiceReady', (dice3d) => {
         emissiveIntensity: 0.5,
         system: "Gwen"
     });
+
+    dice3d.addDicePreset({
+        type: "dc",
+        labels: ["modules/fairwinterdice/faces/gwen/dc/dc-t-face.webp","modules/fairwinterdice/faces/gwen/dc/dc-h-face.webp"],
+        bumpMaps: ["modules/fairwinterdice/faces/gwen/dc/dc-t-bump.webp","modules/fairwinterdice/faces/gwen/dc/dc-h-bump.webp"],
+        emissiveMaps: ["modules/fairwinterdice/faces/gwen/dc/dc-t-em.webp","modules/fairwinterdice/faces/gwen/dc/dc-h-em.webp"],
+        emissive: 0xd2a13e,
+        emissiveIntensity: 0.3,
+        system: "Gwen"
+    });
+
 })
 
 Hooks.on('deleteActiveEffect', async (a, b, c) => {
